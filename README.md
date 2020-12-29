@@ -51,9 +51,9 @@
 
 <p align="center">
 <a href="https://loving-keller-90d91d.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jatinsalve.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jatin%20salve%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_jatin_.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_jatin_.1-blue?style=flat-square&logo=instagram"></a>
+<a href="jasalve_b19@el.vjti.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-jasalve_b19@el.vjti.ac.in?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [jatinS-dev](https://github.com/jatinS-dev)
