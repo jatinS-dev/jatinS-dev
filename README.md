@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatins-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jatins-dev" /> </p>
 
-- :star_struck:  I am interested in Open Source, Software Development and Engineering. Summer 2021, I contributed to Joomla's Core Component Project as a part of my [ISCAS Summer 2021 Program](https://summer.iscas.ac.cn/). I worked on **Joomla 4.X Core Component also added the Joomla 4.X plugin support to it**. You can find here the [Pull Request](https://github.com/joomla-projects/soc21_guided-tour/pull/5) 
+- :star_struck:  I am interested in Open Source, Software Development and Engineering. In Summer 2021, I contributed to Joomla's Core Component Project as a part of my [ISCAS Summer 2021 Program](https://summer.iscas.ac.cn/). I worked on **Joomla 4.X Core Component also added the Joomla 4.X plugin support to it**. You can find here the [Pull Request](https://github.com/joomla-projects/soc21_guided-tour/pull/5) 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics Engineering at Veermata Jijabai Technological Institute(VJTI), Mumbai.
+- 🎓 &nbsp; Studying Electronics Engineering at Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@jatin-salve-b1001b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jatin-salve-b1001b1a2/" height="30" width="40" /></a>
-<a href="https://medium.com/@jasalve-b19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasalve-b19" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jatin-salve-b1001b1a2/" height="30" width="40" /></a>
+<a href="https://jasalve-b19.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasalve-b19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
