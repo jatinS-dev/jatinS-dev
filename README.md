@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatins-dev&show_icons=true&locale=en&layout=compact" alt="jatins-dev" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatins-dev&show_icons=true&locale=en&layout=compact" alt="jatins-dev" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatins-dev&show_icons=true&locale=en" alt="jatins-dev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jatins-dev&show_icons=true&locale=en" alt="jatins-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatins-dev&" alt="jatins-dev" /></p>
 ⭐️ From [jatinS-dev](https://github.com/jatinS-dev)
