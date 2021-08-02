@@ -2,11 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- :star_struck:  I am interested in Open Source, Software Development and Engineering. Summer 2021, I contributed to Joomla's Core Component Project as a part of my [ISCAS Summer 2021 Program](https://summer.iscas.ac.cn/). I worked on **Joomla 4.X Core Component also added the Joomla 4.X plugin support to it**. You can find here the [Pull Request](https://github.com/joomla-projects/soc21_guided-tour/pull/5) 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics Engineering at Veermata Jijabai Technological Institute(VJTI), Mumbai.
-- 💼 &nbsp; Working as a freelancers in the web stack.
+- :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
+
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
-- ⚡ &nbsp; Doing Competitive Programming On Codechef and Codeforces
+- :point_right:  You can read more about me at my [personal website](https://jatins-dev.github.io/myPortfolio/) 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
