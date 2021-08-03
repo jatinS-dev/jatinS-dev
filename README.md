@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Jatin</h1>
-<h3 align="center">A boy trying to figure-out Stuff!!!</h3>
+<h3 align="center">I am a developer from India, I have decent experience in Web development, DSA, and Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatins-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jatins-dev" /> </p>
 
