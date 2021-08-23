@@ -29,13 +29,13 @@
 <a target="_blank" href="https://jasalve-b19.medium.com/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jasalve-b19/0" alt="Recent Article 0">
 <!-- <a target="_blank" href="https://jasalve-b19.medium.com/the-soc-selection-experience-7d4a1614a202"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jasalve-b19/1" alt="Recent Article 1"> -->
   ---
-  <div align="center">
+  <div align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=jatinS-dev&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="jatinS-dev" /> 
   </div>
   
 
 </p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinS-dev&layout=compact&show_icons=true&theme=cobalt" alt="jatinS-dev" /></p>
+ <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinS-dev&layout=compact&show_icons=true&theme=cobalt" alt="jatinS-dev" /></p>
 </p>
 
 
