@@ -38,11 +38,7 @@
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinS-dev&layout=compact&show_icons=true&theme=cobalt" alt="jatinS-dev" /></p>
 </p>
 
-<div align="center">
 
-### I believe in "Neki kar Github pe Dal" (Open-Source)☮️
-
-</div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
