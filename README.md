@@ -6,32 +6,26 @@
 <!--Socials-->
 
 <a href="https://twitter.com/JATINSALVE7">
-    <img height="70" src="/assets/socials/twitter.png" />
+    <img height="70" src="/assets/twitter.png" />
 </a>
 
 
 <a href="https://medium.com/@jasalve-b19">
-    <img height="70" src="/assets/socials/medium.png" />
+    <img height="70" src="/assets/medium.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/">
-    <img height="70" src="/assets/socials/linkedin.png" />
+    <img height="70" src="/assets/linkedin.png" />
 </a>
 
 <a href="https://leetcode.com/jasalve_b19/">
-    <img height="70" src="/assets/socials/leetcode.png" />
+    <img height="70" src="/assets/leetcode.png" />
 </a>
 
 
 <!--Socials End-->
 
-<!--GuestBook-->
 
-<div>
-<a href="https://github.com/jatinS-dev/jatinS-dev/issues/1#issuecomment-new"><img height="50"src="/assets/decoratives/penbook.png"></a> 
-</div>    
-
-<!--GuestBook Ends-->
 
 <!--Snake Contribution Graph-->    
     
