@@ -76,7 +76,7 @@
 <!--Tools & Tech-->
 
 <div></div>
-<img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
+<img alt="Tools & Technologies" height="50" src="/assets/tools.png" />    
 <div></div>
     
 <img height="80" src="/assets/python.png" />
