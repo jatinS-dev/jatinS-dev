@@ -112,7 +112,7 @@
     
 <!--Contribution Graph-->    
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=fykaa&bg_color=0000000&color=dd6286&line=dd6286&point=282a36&area_color=dd6286&area=true&hide_border=true)
+[![Jatin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jatinS-dev&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--Contribution Graph Ends-->  
  
@@ -132,7 +132,7 @@
 
 <!--Profile Views Badge-->
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=fykaa&style=circle&color=dd6286" alt="views"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=jatinS-dev&style=circle&color=dd6286" alt="views"/></div>
 
 <!--Profile Views Badge End-->
 
