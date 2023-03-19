@@ -79,23 +79,23 @@
 <img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
 <div></div>
     
-<img height="80" src="/assets/languages/python.png" />
-<img height="80" src="/assets/languages/javascript.png" />
-<img height="80" src="/assets/languages/cpp.png" />
-<img height="80" src="/assets/languages/c.png" />
-<img height="80" src="/assets/languages/react.png" />
-<img height="80" src="/assets/languages/bootstrap.png" />
-<img height="80" src="/assets/languages/html.png" />
+<img height="80" src="/assets/python.png" />
+<img height="80" src="/assets/javascript.png" />
+<img height="80" src="/assets/cpp.png" />
+<img height="80" src="/assets/c.png" />
+<img height="80" src="/assets/react.png" />
+<img height="80" src="/assets/bootstrap.png" />
+<img height="80" src="/assets/html.png" />
 <br></br>
-<img height="80" src="/assets/languages/css.png" />
-<img height="80" src="/assets/languages/vsc.png" />
-<img height="80" src="/assets/languages/tailwind.png" />
-<img height="80" src="/assets/languages/npm.png" />
-<img height="80" src="/assets/languages/node.png" />
-<img height="80" src="/assets/languages/mysql.png" />
-<img height="80" src="/assets/languages/kubernetes.png" />
-<img height="80" src="/assets/languages/git.png" />
-<img height="80" src="/assets/languages/gcp.png" />
+<img height="80" src="/assets/css.png" />
+<img height="80" src="/assets/vsc.png" />
+<img height="80" src="/assets/tailwind.png" />
+<img height="80" src="/assets/npm.png" />
+<img height="80" src="/assets/node.png" />
+<img height="80" src="/assets/mysql.png" />
+<img height="80" src="/assets/kubernetes.png" />
+<img height="80" src="/assets/git.png" />
+
 <!--Tools & Tech End-->    
     
     
