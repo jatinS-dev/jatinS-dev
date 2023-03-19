@@ -1,46 +1,201 @@
-<h1 align="center">Hi there👋, I'm Jatin</h1>
-<h3 align="center">I am a developer from India, I have decent experience in Web development, DSA, and Problem Solving.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatins-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jatins-dev" /> </p>
-
-- :star_struck:  I am interested in Open Source, Software Development and Engineering. In Summer 2021, I contributed to Joomla's Core Component Project as a part of my [ISCAS Summer 2021 Program](https://summer.iscas.ac.cn/). I worked on **Joomla 4.X Core Component also added the Joomla 4.X plugin support to it**. You can find here the [Pull Request](https://github.com/joomla-projects/soc21_guided-tour/pull/5) 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics Engineering at Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
-- :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
-
-- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
-- :point_right:  You can read more about me at my [personal website](https://jatins-dev.github.io/myPortfolio/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jatin-salve-b1001b1a2/" height="30" width="40" /></a>
-<a href="https://jasalve-b19.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasalve-b19" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-<p align="center">
-
-
-### Medium Blogs ✍🏻
-<a target="_blank" href="https://jasalve-b19.medium.com/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jasalve-b19/0" alt="Recent Article 0">
-<!-- <a target="_blank" href="https://jasalve-b19.medium.com/the-soc-selection-experience-7d4a1614a202"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jasalve-b19/1" alt="Recent Article 1"> -->
----
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jatinS-dev&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="jatinS-dev" /> 
-  </div>
-  
-
-</p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinS-dev&layout=compact&show_icons=true&theme=cobalt" alt="jatinS-dev" /></p>
-</p>
-
-
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+[![GitHub Header](/assets/banner/small.png)](https://discord.com/invite/HAJVhyaheu)
+   
+    
+<!--Socials-->
 
+<a href="https://twitter.com/JATINSALVE7">
+    <img height="70" src="/assets/socials/twitter.png" />
+</a>
+
+
+<a href="https://medium.com/@jasalve-b19">
+    <img height="70" src="/assets/socials/medium.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/">
+    <img height="70" src="/assets/socials/linkedin.png" />
+</a>
+
+<a href="https://leetcode.com/jasalve_b19/">
+    <img height="70" src="/assets/socials/leetcode.png" />
+</a>
+
+
+<!--Socials End-->
+
+<!--GuestBook-->
+
+<div>
+<a href="https://github.com/jatinS-dev/jatinS-dev/issues/1#issuecomment-new"><img height="50"src="/assets/decoratives/penbook.png"></a> 
+</div>    
+
+<!--GuestBook Ends-->
+
+<!--Snake Contribution Graph-->    
+    
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+    
+<br/>
+    
+<!--Snake Contribution Graph Ends--> 
+ 
+    
+    
+<!--About-->
+
+<h1> About </h1> 
+    
+ <p> Hey there! I am Jatin! 🚀 I am a Researcher and Open Source Expert.👩‍💻 
+     Open source and Communities is my strength and you'll find me exploring every thing around it!🔎
+     I also enjoy creating stuffs- projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights! Making meaningful connections is truly my raison d'être, hence I enjoy public speaking, networking, helping out folks in my leisure time and community building.🤝 
+     As a Tech-Savvy I am passionate about crafting my Tech Stacks, thereby constructing reliable and effective projects to simplify everyday life.💡
+     Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :) 
+    
+</p>
+
+<!--About Ends-->
+    
+<!--Recent Activity & Streaks-->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinS-dev&show_icons=true&theme=dracula&count_private=true)](https://github.com/jatinS-dev/github-readme-stats)
+
+<!-- 
+[![GitHub Streaks stats](https://github-readme-streak-stats.herokuapp.com?user=jatinS-dev&theme=radical&hide_border=true)](https://github.com/jatinS-dev/github-readme-stats)    
+-->
+    
+<!--Recent Activity & Streaks End-->    
+
+<!--LinkedIn Readme-->
+<!--
+<img src="https://github-readme-linkedin-delta.vercel.app/experience?username=faeka" />
+-->
+<!--LinkedIn Readme-->
+
+
+
+
+
+<!--Tweets End-->
+
+<!--Tools & Tech-->
+
+<div></div>
+<img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
+<div></div>
+    
+<img height="80" src="/assets/languages/python.png" />
+<img height="80" src="/assets/languages/javascript.png" />
+<img height="80" src="/assets/languages/cpp.png" />
+<img height="80" src="/assets/languages/c.png" />
+<img height="80" src="/assets/languages/react.png" />
+<img height="80" src="/assets/languages/bootstrap.png" />
+<img height="80" src="/assets/languages/html.png" />
+<br></br>
+<img height="80" src="/assets/languages/css.png" />
+<img height="80" src="/assets/languages/vsc.png" />
+<img height="80" src="/assets/languages/tailwind.png" />
+<img height="80" src="/assets/languages/npm.png" />
+<img height="80" src="/assets/languages/node.png" />
+<img height="80" src="/assets/languages/mysql.png" />
+<img height="80" src="/assets/languages/kubernetes.png" />
+<img height="80" src="/assets/languages/git.png" />
+<img height="80" src="/assets/languages/gcp.png" />
+<!--Tools & Tech End-->    
+    
+    
+<!--Trophy-->
+    
+<!--     
+![trophy](https://github-profile-trophy.vercel.app/?username=fykaa&theme=radical&margin-h=15&margin-w=5&column=4&no-frame=true&no-bg=true)
+ -->
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fykaa&column=8&row=1&theme=dracula&no-frame=true)
+
+<!--Trophy Ends-->
+    
+<!--Contribution Graph-->    
+
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=fykaa&bg_color=0000000&color=dd6286&line=dd6286&point=282a36&area_color=dd6286&area=true&hide_border=true)
+
+<!--Contribution Graph Ends-->  
+ 
+ 
+<!--Profile Metrics-->
+
+<!-- <details><summary><b>PROFILE METRICS<img src="" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/fykaa/fykaa/main/github-metrics.svg">
+</p>
+</details>
+ -->
+ 
+
+<!--Profile Metrics Ends-->
+
+<!--Profile Views Badge-->
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=fykaa&style=circle&color=dd6286" alt="views"/></div>
+
+<!--Profile Views Badge End-->
+
+<!--RickRoll-->
+
+<details>
+    <summary>My Achievements</summary>
+    <p><strong>I am aware of all the Internet Traditions and I am never gonna give them up!</strong></p>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+    <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
+    <div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600"> -->
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" width="1000"> -->
+
+</details>
+
+<!--RickRoll Ends-->
+
+<!--Repositories-->
+<!-- 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/fykaa/Sample-Portfolio-for-Learners" title="Sample-Portfolio-for-Learners"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Sample-Portfolio-for-Learners&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/fykaa/Content-Corral" title="Content-Corral"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Content-Corral&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/fykaa/PyPAL-Python-Powered-Personal-Assistant" title="PyPAL-Python-Powered-Personal-Assistant"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=PyPAL-Python-Powered-Personal-Assistant&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/fykaa/Content-Corral" title="Content-Corral"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Content-Corral&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+ -->
+<!--Repositories End-->
