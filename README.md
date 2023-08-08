@@ -41,9 +41,9 @@
 
 <h1> About </h1> 
     
- <p> Hey there! I am Jatin! 🚀 I am a Open Source Enthusiast👩‍💻 
-     Open source and Communities is my strength and you'll find me exploring every thing around it!🔎
-     I also enjoy creating stuffs- projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights! Making meaningful connections is truly my raison d'être, hence I enjoy public speaking, networking, helping out folks in my leisure time and community building.🤝 
+ <p> Hey there! I am Jatin! 🚀 I am an Open Source Enthusiast👩‍💻. 
+     Problem-Solvingg and  Research are my strength and you'll find me exploringeverythingg around it!🔎
+     I also enjoy creating stuff- projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights! Making meaningful connections is truly my raison d'être, hence I enjoy public speaking, networking, helping out folks in my leisure time and community building.🤝 
      As a Tech-Savvy I am passionate about crafting my Tech Stacks, thereby constructing reliable and effective projects to simplify everyday life.💡
      Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :) 
     
